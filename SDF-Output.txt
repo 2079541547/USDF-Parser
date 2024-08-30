@@ -1,0 +1,23 @@
+此工具获取的不一定正确，GUID是20个字节长度的，即20个字符
+m_FileID: 0
+m_PathID: 0
+m_FileID: 1
+m_PathID: 1
+m_Name: SIMKAI SDF
+m_FileID: 0
+m_PathID: 0
+m_FileID: 1
+m_PathID: 1
+m_Name: SIMKAI SDF
+m_FileID: 0
+m_PathID: 2
+m_SourceFontFileGUID: 3d4450133c6d96d47a27d734fdc14b5b
+m_FileID: 0
+m_PathID: 0
+m_FamilyName: KaiTi
+m_StyleName: Regular
+m_FileID: 0
+m_PathID: 3
+m_FileID: 0
+m_PathID: 0
+m_SourceFontFileGUID: 3d4450133c6d96d47a27d734fdc14b5b
